@@ -1,1 +1,1 @@
-#### Difference Between Basic Authentication and Form Based Authentication
+## Difference Between Basic Authentication and Form-Based Authentication
